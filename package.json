@@ -1,0 +1,11 @@
+{
+  "name": "winvista-sim",
+  "version": "6.0.0",
+  "description": "Pixel‑Perfect Windows vista Simulator for the web",
+  "scripts": {
+    "start": "servor . --reload"
+  },
+  "dependencies": {
+    "servor": "^4.0.2"
+  }
+}
